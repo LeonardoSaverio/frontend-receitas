@@ -1,0 +1,22 @@
+.photos-container {
+    flex-direction: row;
+}
+
+.photo {
+    height: 140px;
+    width: 240px;
+    border-radius: 5px;
+    margin-bottom: 32px;
+    margin-right: 8px;
+}
+
+.photo-input {
+    display: flex;
+    cursor: pointer;
+    justify-content: center;
+    align-items: center;
+    border: 2px dashed #C8C8C8;
+    border-radius: 25px;
+    height: 60px;
+}
+
